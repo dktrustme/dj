@@ -1,1 +1,3 @@
-# dj
+# maven-project
+
+Simple Maven Project
